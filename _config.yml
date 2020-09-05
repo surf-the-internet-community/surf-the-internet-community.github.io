@@ -1,10 +1,10 @@
-title: SIMPLE                        # title of the site
-description: A Jekyll Theme          # description of the site
+title: 创意冲浪社                        # title of the site
+description: 带着创意，去冲浪，去实现          # description of the site
 url: http://surf-the-internet-community.lin037.cn/       # domain
-baseurl: /simple                     # root directory
+baseurl: /                     # root directory
 
 # Email address
-email: professordeng@qq.com
+email: 2869199723@qq.com
 
 # Path of site resources
 img: /assets/img 
@@ -41,7 +41,7 @@ gitalk:
 
 # Google Analytics
 ## Docs: https://analytics.google.com/analytics/web/
-google-analytics: UA-165708741-1
+google-analytics: 
 
 # default layout of the articles in _post
 defaults:
