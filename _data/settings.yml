@@ -1,16 +1,16 @@
 # Customize site navigation
 nav:
-- name: Home
+- name: 首页
   url: /
-- name: Archives
+- name: 档案
   url: /archives.html
-- name: About
+- name: 关于
   url: /about.html
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - icon: github
-  link: https://github.com/professordeng/simple
+  link: https://github.com/surf-the-internet-community/surf-the-internet-community.github.io
 - icon: false    # weibo
   link: https://weibo.com/codeng
 - icon: false
@@ -21,17 +21,17 @@ social:
   link: https://linkedin.com/in/professordeng
   
 # Customize site text
-prev: Older
-next: Newer
+prev: 下一页
+next: 上一页
 
-prev_page: Newer
-next_page: Older
+prev_page: 上一页
+next_page: 下一页
 
-search_tip: Press enter to search
-searching: Searching
+search_tip: 在此输入搜索内容
+searching: 搜索中
 
-new: New
+new: 新建
 
-read_more: Read More
+read_more: 查看更多
 
-edit: edit
+edit: 创意冲浪社
