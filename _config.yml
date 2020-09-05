@@ -7,9 +7,9 @@ baseurl: /simple                     # root directory
 email: professordeng@qq.com
 
 # Path of site resources
-img: /simple/assets/img 
-css: /simple/assets/css  
-js:  /simple/assets/js  
+img: /assets/img 
+css: /assets/css  
+js:  /assets/js  
 cdn: https://cdn.jsdelivr.net/gh/professordeng/simple@gh-pages/assets/img
 
 ## Docs: https://pages.github.com/versions/
