@@ -7,7 +7,7 @@
     repo: '{{ site.gitalk.repo }}',
     owner: '{{ site.gitalk.owner }}',
     admin: ['{{ site.gitalk.admin }}'],
-    id: '{{ site.gitalk.id }}',
+    id: md5(location.pathname),
     title: '{{ site.gitalk.title }}',
     body: '{{ site.gitalk.body }}',
     distractionFreeMode: false
