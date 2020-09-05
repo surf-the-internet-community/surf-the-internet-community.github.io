@@ -33,7 +33,7 @@ gitalk:
   clientSecret: ad62728d9ee9f887bbdfa312afaa288cebb5379e
   repo: blog_comment
   owner: surf-the-internet-community
-  admin: 创意冲浪社
+  admin: surf-the-internet-community
   id: location.pathname      # The default is location.pathname
   
 
