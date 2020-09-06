@@ -23,3 +23,9 @@ title: 使用Photoshop从喜欢的图片中提取色卡.
 4. 保存好的颜色表就可以载入Photoshop的色板里使用了，以下为成品图：
 	
 	![色卡成品图](/assets/img/to-extract-color-CARDS-with-ps/finished.webp)
+
+### 补充：
+
+后来我发现，其实可以直接去一个网站做的......
+
+网站链接：[coolors](https://coolors.co/)
