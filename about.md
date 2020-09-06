@@ -1,9 +1,33 @@
 ---
 layout: page
-title: About
+title: 关于
 comment: true
 ---
 
-Hello, I am professordeng and I created this theme in order to greatly enhance the writing and reading experience.
+## 社团介绍
 
-To use this theme, see the [documentation](https://professordeng.com/simple/2020/05/01/theme-settings.html), go to the [theme repository](https://github.com/professordeng/simple) and download the source code.
+吴川一中创意冲浪社，即电脑社，建于2000年，为了培养有关信息技术方面的人才。
+名称来源于surf冲浪、上网。
+不会吧不会吧，难道真的有人以为是博茂海冲浪或者鼎龙湾冲浪的冲浪吧？（手动滑稽）
+
+## 部门介绍
+
+### 外联部
+
+主要负责赚钱养社，即负责拉赞助、宣传和策划活动，可锻炼语言表达能力和社交能力。
+
+### 技术部
+
+重点培养部门，可锻炼部员网络信息技术，提高自身电脑水平。在科技发达的今天信息技术也显得格外的重要！
+
+## 联系我们
+
+QQ：2869199723
+
+邮箱：2869199723@qq.com
+
+## 友情链接
+
+[叁柒博客](https://blog.lin037.cn/)
+
+互挂友情链接联系我~~~
