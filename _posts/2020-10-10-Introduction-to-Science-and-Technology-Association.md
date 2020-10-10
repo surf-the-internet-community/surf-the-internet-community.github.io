@@ -2,8 +2,6 @@
 title: 2020年吴川一中青少年科技教育协会介绍
 ---
 
-## 社团简介
-
 **吴川一中青少年科技教育协会**，简称：**科协**，成立于1998年，是我校一个历史悠久的学生课外活动团体。
 
 科协秉承“**培养创新精神和实践能力,提高科技素质，鼓励优秀人才涌现**”的宗旨，在校内通过举办各种培训、竞赛等活动以培养同学们的创新能力和动手能力，在校外积极参加科技竞赛并取得了骄人的成绩。
@@ -40,11 +38,11 @@ title: 2020年吴川一中青少年科技教育协会介绍
 
 ##### 一些配图：
 
-![image-20201010203204435](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010203204435.png)
+![image-20201010203204435](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010203204435.webp)
 
-![image-20201010203915051](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010203915051.png)
+![image-20201010203915051](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010203915051.webp)
 
-![image-20201010204206318](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010204206318.png)
+![image-20201010204206318](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010204206318.webp)
 
 ### 数学部
 
@@ -74,15 +72,15 @@ title: 2020年吴川一中青少年科技教育协会介绍
 
 使用Photoshop来制作下图，制作下海报啥的，像下面这样子：
 
-![image-20201010194625164](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010194625164.png)
+![image-20201010194625164](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010194625164.webp)
 
 使用office软件，编写一些文档啥的（这个是某个憨批想写小说然后写完序章就放弃了......）：
 
-![image-20201010194839561](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010194839561.png)
+![image-20201010194839561](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010194839561.webp)
 
 还有管理下咋们的网站啥的（就是你们正在浏览的网站哦~）：
 
-![image-20201010195039960](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010195039960.png)
+![image-20201010195039960](/assets/img/Introduction-to-Science-and-Technology-Association/image-20201010195039960.webp)
 
 ## 可以获得的收获
 
